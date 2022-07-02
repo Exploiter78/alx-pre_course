@@ -1,1 +1,1 @@
-my first getting started
+man
