@@ -1,1 +1,1 @@
-This is my git task
+my git
