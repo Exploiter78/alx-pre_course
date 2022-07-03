@@ -1,1 +1,1 @@
-man
+This is my git task
